@@ -1,7 +1,7 @@
 # EDUCATION DATA ANALYSIS
 
 ## Intro
-In this project we will analysing the performance of student in exams. The analysis is done by viewing the Education status of parents, Extracurricular activites etc.
+In this project we will be analysing the performance of student in exams based on scores received in maths, reading test, and written test. The analysis is done by viewing the Education status of parents, Extracurricular activites etc.
 
 ## Configuring setup
 - Check whether python is installed
