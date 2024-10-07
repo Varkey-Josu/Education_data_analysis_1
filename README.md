@@ -1,9 +1,9 @@
-#EDUCATION DATA ANALYSIS
+# EDUCATION DATA ANALYSIS
 
-##Intro
+## Intro
 
-##Configuring setup
+## Configuring setup
 
-##Libraries used
+## Libraries used
 
-##How to Run
+## How to Run
