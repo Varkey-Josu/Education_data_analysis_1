@@ -4,11 +4,11 @@
 In this project we will be analysing the performance of student in exams based on scores received in maths, reading test, and written test. The analysis is done by viewing the Education status of parents, Extracurricular activites etc.
 
 ## Configuring setup
-- Check whether python is installed
+- Check whether python is installed (download: https://www.python.org/)
  ```bash
   python --version
 ```
-- Check whether git is installed
+- Check whether git is installed (download: https://git-scm.com/)
  ```bash
   git --version
   ```
