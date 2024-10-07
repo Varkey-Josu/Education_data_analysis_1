@@ -1,7 +1,7 @@
 # EDUCATION DATA ANALYSIS
 
 ## Intro
-In this project we will analysing the performance of student in exams. The analysis is done by view
+In this project we will analysing the performance of student in exams. The analysis is done by viewing the Education status of parents, Extracurricular activites etc.
 
 ## Configuring setup
 - Check whether python is installed
@@ -26,5 +26,10 @@ In this project we will analysing the performance of student in exams. The analy
 Now you are ready to go
 
 ## Libraries used
-
-## How to Run
+Install the required liraries by running the following commands,
+ ```bash
+  pip install numpy
+  pip install pandas
+  pip install seaborn
+  pip install matplotlib
+  ```
